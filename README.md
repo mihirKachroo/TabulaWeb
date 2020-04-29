@@ -1,6 +1,8 @@
 # Tabula Web App
 Hackathon Project For Silicon Valley Hacks 2020
+
 First place winner, Best education hack, Top 5 Hacks
+
 [View Video Demonstration](https://www.youtube.com/watch?v=ki2QPCBCLu0)
 
 ## Getting started

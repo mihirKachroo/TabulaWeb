@@ -12,6 +12,9 @@ First place winner, Best education hack, Top 5 Hacks
 
 ## Built With
 
-* [React Js](https://reactjs.org/) 
-* [socket.io](https://socket.io/)
-* [Express](https://expressjs.com/)
+* Python
+* Flask
+* React JS
+* Face Detection Machine Learning Algorithms
+* MongoDB 
+* PostgreSQL
